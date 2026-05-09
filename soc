@@ -1,0 +1,83 @@
+<h1 align="center">👋 Hi, I'm Muhammed Ali Farouk</h1>
+
+<p align="center">
+  <b>SOC Analyst in Progress | Information Security Master's Student</b><br>
+  🎓 Qassim University — Master's in Information Security<br>
+  📍 Riyadh, Saudi Arabia
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/muhammed-ali-farouk98/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <img src="https://img.shields.io/badge/HTB-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black" />
+  <img src="https://img.shields.io/badge/Focus-SOC%20%7C%20Blue%20Team-blue?style=for-the-badge" />
+</p>
+
+---
+
+## 🛡️ About Me
+
+I'm a cybersecurity enthusiast pursuing my **Master's in Information Security** at Qassim University. Currently focused on building hands-on skills in **Security Operations (SOC)** and **Blue Team** defense through real-world labs and industry certifications.
+
+- 🔭 Currently working on: **HTB Certified Defensive Security Analyst (CDSA)**
+- 🌱 Learning: SIEM, Log Analysis, Incident Response, Threat Detection
+- 🎯 Goal: SOC Analyst → OT Security Specialist
+- 💡 Research focus: Cyber Defense & Threat Intelligence
+
+---
+
+## 🧰 Skills & Tools
+
+**Defensive / SOC**
+
+![Splunk](https://img.shields.io/badge/Splunk-000000?style=flat&logo=splunk&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white)
+![ELK](https://img.shields.io/badge/ELK%20Stack-005571?style=flat&logo=elasticstack&logoColor=white)
+
+**Networking & OS**
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Kali](https://img.shields.io/badge/Kali%20Linux-557C94?style=flat&logo=kalilinux&logoColor=white)
+![Networking](https://img.shields.io/badge/TCP%2FIP%20%7C%20DNS%20%7C%20HTTP-informational?style=flat)
+
+**Scripting**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)
+
+---
+
+## 📜 Certifications
+
+| Certification | Status |
+|---|---|
+| HTB Certified Defensive Security Analyst (CDSA) | 🔄 In Progress |
+| CompTIA Security+ | 🎯 Planned |
+| GICSP (OT Security) | 🎯 Future Goal |
+
+---
+
+## 📂 Repositories
+
+| Repo | Description |
+|---|---|
+| 🔍 [HTB-Writeups](./HTB-Writeups) | Solutions & analysis for HTB machines |
+| 🛡️ [SOC-Labs](./SOC-Labs) | Home lab projects — SIEM, Log Analysis |
+| 📊 [Threat-Reports](./Threat-Reports) | Malware & threat intelligence reports |
+| 📝 [Notes](./Notes) | Study notes from CDSA & Security+ |
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mfarouk-sec&show_icons=true&theme=dark&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mfarouk-sec&layout=compact&theme=dark&hide_border=true" width="38%" />
+</p>
+
+---
+
+<p align="center">
+  <i>"The best defense is understanding the offense."</i>
+</p>
